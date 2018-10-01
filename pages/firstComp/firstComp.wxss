@@ -1,0 +1,36 @@
+/* pages/firstComp/firstComp.wxss */
+
+.formStyle {
+  margin: 5px;
+  border: 1px;
+  border-style: dashed;
+  border-radius: 5px;
+  opacity: 0.5;
+}
+
+input {
+  width: 100%;
+  height: 10%;
+  background-color: gray;
+  border: 2px;
+  border-color: aqua;
+  border-style: dotted;
+  border-radius: 10px;
+}
+
+button {
+  height: 10%;
+  width: 50%;
+}
+
+.immagineStyle {
+  text-align: center;
+}
+
+.testoStyle {
+  background-color: greenyellow;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-family: comic Sans MS, serif;
+}

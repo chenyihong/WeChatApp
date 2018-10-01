@@ -1,0 +1,15 @@
+<!--pages/firstComp/firstComp.wxml-->
+<view class='formStyle'>
+  <form>
+    <input type='text'></input>
+    <button bindtap='jump'>按钮</button>
+  </form>
+</view>
+
+<view class='immagineStyle'>
+<image src='https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png'mode="aspectFit"></image>
+</view>
+
+<view class="testoStyle">
+  <text>{{innerText}}</text>
+</view>
