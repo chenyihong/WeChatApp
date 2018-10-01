@@ -1,0 +1,2 @@
+<!--pages/pageJump/pageJump.wxml-->
+<web-view src="https://www.baidu.com/"></web-view>  <!--https://www.google.it/-->
