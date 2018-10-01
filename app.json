@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/firstComp/firstComp",
+    "pages/pageJump/pageJump"
+  ],
+  "window": {
+    "navigationBarTitleText": "宏的微信小程序",
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff000",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "default",
+    "backgroundColor": "#00ffff"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志"
+      },
+      {
+        "pagePath": "pages/firstComp/firstComp",
+        "text": "项目"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": "10000",
+    "downloadFile": "10000"
+  },
+  "debug": false
+}
